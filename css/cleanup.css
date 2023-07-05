@@ -1,1 +1,13 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+body{
+    background: blue;
+}
+
+div{
+    height: auto;
+    image-orientation: flip;
+}
